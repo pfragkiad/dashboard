@@ -11,7 +11,11 @@ import  ReactDOM  from "react-dom";
 
 
 //npm start
+import './index.css'
+import App from './App';
 
-import App from '/App';
+//App.js
+
+//https://youtu.be/jx5hdo50a2M?t=1158
 
 ReactDOM.render(<App />, document.getElementById('root'))
